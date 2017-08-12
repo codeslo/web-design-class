@@ -1,0 +1,15 @@
+.copy img{
+    width:25%;
+    float:right;
+    margin-top:-1%;
+}
+
+h1,h2{
+    font-family: 'Work Sans', sans-serif;
+}
+
+p,li{
+    font-family:'Open Sans', sans-serif;
+    font-size:1.10em;
+    line-height: 1.5em;
+}

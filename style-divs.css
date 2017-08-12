@@ -1,0 +1,63 @@
+.copy img{
+    width:25%;
+    float:right;
+    margin-top:-1%;
+}
+
+h1,h2{
+    font-family: 'Work Sans', sans-serif;
+}
+
+p,li{
+    font-family:'Open Sans', sans-serif;
+    font-size:1.10em;
+    line-height: 1.5em;
+}
+
+.copy{
+    width:45%;
+    margin:auto;
+    text-align: justify;
+}
+
+.copy h2{
+    font-size:1.5em;
+}
+
+.copy p,ol{
+    padding-bottom:20px;
+}
+
+.copy li{
+    font-style:italic;
+}
+
+.content{
+    margin:10px auto 0 auto;
+    width:100%;
+    padding:0 0 15px 0;
+}
+
+.dark{
+    padding:25px 0 25px 0;
+    background-color:black;
+    color:white;
+}
+
+.dark a{
+    color:cyan;
+}
+
+.dark h2{
+    color:cyan;
+}
+
+.light{
+    padding:25px 0 25px 0;
+    background-color:white;
+    color:black;
+}
+
+.light p{
+    color:#606060;
+}
